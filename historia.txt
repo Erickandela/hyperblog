@@ -10,16 +10,10 @@ y estoy aprendiendo a usar Git y Github
 
 Estoy haciendo pruebas en Git
 
-<<<<<<< HEAD
 Experimento 1
 
 Experimento 2
 
 Master 1
-=======
-Master 
-
-Master 2
->>>>>>> 07b2a42 (Master 2)
 
 Hablaremos de mi vida
